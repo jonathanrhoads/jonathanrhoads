@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Azure Development, C#, SQL**
 
-- 📫 How to reach me **jonathan.r.rhoads@outlook.com**
+- 📫 How to reach me: **jonathan.r.rhoads@outlook.com**
 
-- ⚡ Fun fact **I talk through debugging with my dog.**
+- ⚡ Fun fact: **I talk through debugging with my dog.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
