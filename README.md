@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Jonathan Rhoads</h1>
-<h3 align="center">An ambitious Software Engineer with an affinity for the cloud.</h3>
+<h3 align="center"></h3>
 
 - 📫 How to reach me: **jonathan.r.rhoads@outlook.com**
 
-- ⚡ Fun fact: **I talk through debugging with my dog.**
+- ⚡ **Learning everyday!**
 
 <!--### Blogs posts
 <!-- BLOG-POST-LIST:START -->
